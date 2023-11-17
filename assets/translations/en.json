@@ -1,0 +1,20 @@
+{
+  "choice": {
+    "track_period": "Track my period",
+    "contraception": "contraception and wellbeing",
+    "get_pregnant": "Get pregnant",
+    "reproductive_health": "learn about reproductive health"
+  },
+  "birthday": {
+    "choose_birthday": "Log in your date of birth"
+  },
+  "confirm": {
+    "confirm_provided_info": "Please, confirm provided info:",
+    "birth_year": "birth year: ",
+    "request_service": "requested service: ",
+    "success_request": "your request succeed"
+  },
+  "buttons": {
+    "next": "Next"
+  }
+}
